@@ -27,7 +27,7 @@ const SelectAccountType = () => {
   const [team, setTeam] = useState(false);
   return (
     <>
-      <Container className="my-5 pt-5">
+      <Container className="my-5 pt-md-5">
         <div className="mx-auto col-md-7 col-lg-5">
           <BrandName />
           <StepProgressBar page_no={3} />
