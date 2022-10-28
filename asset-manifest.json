@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/eden-react/static/css/main.fc371e1c.css",
-    "main.js": "/eden-react/static/js/main.1305eed0.js",
+    "main.js": "/eden-react/static/js/main.7c324477.js",
     "static/js/787.7093765b.chunk.js": "/eden-react/static/js/787.7093765b.chunk.js",
     "index.html": "/eden-react/index.html",
     "main.fc371e1c.css.map": "/eden-react/static/css/main.fc371e1c.css.map",
-    "main.1305eed0.js.map": "/eden-react/static/js/main.1305eed0.js.map",
+    "main.7c324477.js.map": "/eden-react/static/js/main.7c324477.js.map",
     "787.7093765b.chunk.js.map": "/eden-react/static/js/787.7093765b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc371e1c.css",
-    "static/js/main.1305eed0.js"
+    "static/js/main.7c324477.js"
   ]
 }
