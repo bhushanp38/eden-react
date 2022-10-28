@@ -7,9 +7,9 @@ const BrandName = ({ className }) => {
       {/* logo and title */}
       <div className="d-flex justify-content-center">
         <div>
-          <img src={Eden} alt="" width={60} />
+          <img src={Eden} alt="" width={40} />
         </div>
-        <div className="d-flex align-self-center mt-1">
+        <div className="d-flex align-self-center m-1">
           <h2>Eden</h2>
         </div>
       </div>

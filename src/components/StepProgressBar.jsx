@@ -22,7 +22,7 @@ const StepProgressBar = ({ page_no }) => {
   }
 
   return (
-    <div className="w-75 mx-auto my-5 py-4">
+    <div className="w-75 mx-auto my-5 py-md-4">
       <ProgressBar percent={progress} filledBackground="#3f51b5" height={2}>
         <Step>
           {({ accomplished, index }) => (
